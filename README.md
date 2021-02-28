@@ -18,6 +18,8 @@ In the right hand side of the screen you will be given a URL from repl.it with y
 
 On https://uptimerobot.com, add a new monitor. Choose HTTP(s), give it a name, and post your URL. You can choose the amount of time you want the server to ping that URL but I just kept it set at 5 minutes. Create monitor. 
 
+You now have a twitter-bot that will run constantly, retweeting every 5 minutes. 
+
 
 
 
